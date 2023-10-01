@@ -1,8 +1,8 @@
-# Human-Language-Technologies Projects
+# Natural Language Processing Projects
+### Project 1: Language Style Analysis across Subreddits with NLP
+### Project 2: N-gram Algorithm for Sentence and Word Generation with NLP
 
-Welcome to the repository for two Human Language Technology projects completed as part of my academic assignments at University College Dublin (UCD). These projects delve into various aspects of natural language processing and analysis, showcasing the application of advanced techniques to explore language patterns and styles.  
-
-<img src="https://github.com/yinfangrtz/AI-Powered-Data-Pattern-Discovery/assets/106718273/e5211d6d-7bbc-41b5-9f16-fde9e44bc8d0" width="50%" alt="Image">
+Welcome to the repository for two Human Language Technology projects. These projects delve into various aspects of natural language processing and analysis, showcasing the application of advanced techniques to explore language patterns and styles.  
 
 ### Project 1: Language Style Analysis across Subreddits
 
